@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "The old man",
+    "username": "The-old-man",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "hemaly.aternos.me",
     "port": 16754,
-    "version": "1.20.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a",
-        "Subscri",
-        "Want "
+        "I'm a regular player",
+        "Subscribe to SoloPlayz!",
+        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
     },
     "chat-log": true,
